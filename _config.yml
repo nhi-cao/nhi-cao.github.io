@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2351.JPG"
+  avatar           : "files/IMG_2351.JPG"
   name             : "Nhi Cao"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
