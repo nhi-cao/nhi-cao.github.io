@@ -12,8 +12,12 @@ author_profile: true
 <br />
 <br />
 
-<!-- {% include base_path %}
+<!-- Uncomment and change file type from .md to .html to activate and use the sub-pages in folder /_teaching/ 
+
+{% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %} 
+
+-->
