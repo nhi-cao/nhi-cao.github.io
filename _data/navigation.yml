@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: "https://github.com/nhi-cao/nhi-cao.github.io/blob/master/files/CV_2025.pdf"
+    url: ![](files/CV_2025.pdf)
 
   - title: "Teaching"
     url: /teaching/    
