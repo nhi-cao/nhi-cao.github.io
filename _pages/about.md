@@ -10,9 +10,6 @@ redirect_from:
 I'm a PhD candidate at [Hanken](https://www.hanken.fi/en) and [Helsinki Graduate School of Economics](https://www.helsinkigse.fi/). My work concerns economic development and economic history. Download my [CV](https://github.com/nhi-cao/nhi-cao.github.io/blob/master/files/CV_2025.pdf). 
 
 
-Work
-======
-On-going work
 
 Persistent effects of colonial rubber plantations
 ------
@@ -26,7 +23,8 @@ Impact of patent protection on unit prices
 ------
 Abstract: 
 
-
+<br />
+<br />
 
 Teaching
 ======
