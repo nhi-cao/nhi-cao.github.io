@@ -21,7 +21,7 @@ Abstract: During their colonial rule of Cochinchina (now known as southern Vietn
 <br />
 <br />
 
-**Age norms and group decision-making** [job-market paper]
+**Age norms and group decision-making: experimental evidence** [job-market paper]
 <br />
 Abstract: [upcoming]
 <br />
