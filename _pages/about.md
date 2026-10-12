@@ -19,7 +19,7 @@ Work
 <br />
 Abstract: [upcoming]
 <br />
-[Slides]() at Nordic Conference in Behavioural and Experimental Economics  ([NCBEE](https://sites.google.com/view/ncbee-2026-helsinki/home)) 2026
+[Slides](nhi-cao.github.io/files/ncbee2026_age-norm.pdf) at Nordic Conference in Behavioural and Experimental Economics  ([NCBEE](https://sites.google.com/view/ncbee-2026-helsinki/home)) 2026
 <br />
 <br />
 
