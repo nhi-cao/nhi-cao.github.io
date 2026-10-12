@@ -19,7 +19,7 @@ Work
 <br />
 Abstract: [upcoming]
 <br />
-[Slides]() at Nordic Conference in Behavioural and Experimental Economics (NCBEE) 2026
+[Slides]() at Nordic Conference in Behavioural and Experimental Economics 2026 [(NCBEE)](https://sites.google.com/view/ncbee-2026-helsinki/home)
 <br />
 <br />
 
