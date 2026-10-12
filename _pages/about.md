@@ -14,6 +14,14 @@ My work concerns economic development and economic history.
 
 Work 
 ------
+
+**Age norms and group decision-making: experimental evidence** [job-market paper]
+<br />
+Abstract: [upcoming]
+<br />
+<br />
+
+
 **Persistent effects of colonial rubber plantations** [(draft)](https://drive.google.com/file/d/1ZepS7kU-Xg5VLxMZxu44IjgcLknq5Xhv/view)
 <br />
 <br />
@@ -21,11 +29,6 @@ Abstract: During their colonial rule of Cochinchina (now known as southern Vietn
 <br />
 <br />
 
-**Age norms and group decision-making: experimental evidence** [job-market paper]
-<br />
-Abstract: [upcoming]
-<br />
-<br />
 
 **Impact of patent protection on unit prices** with [Ari Hyytinen](http://www.hyytinen.fi/)
 <br />
